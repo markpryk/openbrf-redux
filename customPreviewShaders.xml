@@ -4,7 +4,7 @@
 
   <previewShader>
     <techniques>
-      <!--a comma separated list of all "techniques" that should be previewed by this -->
+      <!-- a comma separated list of all "techniques" that should be previewed by this -->
       example1, example2
     </techniques>
     <vertexProgram>
